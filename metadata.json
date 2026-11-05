@@ -1,0 +1,6 @@
+{
+  "name": "CipherVPN",
+  "description": "High-speed, secure VPN with advanced encryption protocols, USA servers including Baltimore and Bluffdale, kill switch, split tunneling, and latency optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
